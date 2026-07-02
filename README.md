@@ -4,23 +4,23 @@
 ### AI Prompts for VQA Construction
 The prompts used by GPT-5 to construct VQA tasks. The prompt language, physician assessment language, and case information language are all Chinese.
 LM Fundamental Pathology VQAs
-The prompt used for generating LM-based fundamental pathology VQAs is as follows:
-•	Expert knowledge framework: S.II 1.1 LM_Expert_knowledge_framework
-•	Prompt: S.II 1.2 LM_prompt
+- The prompt used for generating LM-based fundamental pathology VQAs is as follows:
+  •	Expert knowledge framework: S.II 1.1 LM_Expert_knowledge_framework
+  •	Prompt: S.II 1.2 LM_prompt
 EM Fundamental Pathology VQAs
-The prompt used for generating EM-based fundamental pathology VQAs is as follows:
-•	Expert knowledge framework: S.II 2.1 EM_Expert_knowledge_framework
-•	Prompt: S.II 2.2 EM_prompt
+- The prompt used for generating EM-based fundamental pathology VQAs is as follows:
+  •	Expert knowledge framework: S.II 2.1 EM_Expert_knowledge_framework
+  •	Prompt: S.II 2.2 EM_prompt
 IF Intensity Fundamental Pathology VQAs
-The prompt used for generating IF-intensity fundamental pathology VQAs is as follows:
-•	Prompt: S.II 3.1 IF_intensity_prompt
+- The prompt used for generating IF-intensity fundamental pathology VQAs is as follows:
+  •	Prompt: S.II 3.1 IF_intensity_prompt
 IF Deposition Fundamental Pathology VQAs
-The prompt used for generating IF-deposition fundamental pathology VQAs is as follows:
-•	Expert knowledge framework: S.II 4.1 IF_deposition_Expert_knowledge_framework
-•	Prompt: S.II 4.2 IF_deposition_prompt
+- The prompt used for generating IF-deposition fundamental pathology VQAs is as follows:
+  •	Expert knowledge framework: S.II 4.1 IF_deposition_Expert_knowledge_framework
+  •	Prompt: S.II 4.2 IF_deposition_prompt
 Integrative Diagnostic VQAs
-The prompt used for generating integrative diagnostic VQAs is as follows:
-•	Prompt: S.II 5.1 Diagnose_prompt
+- The prompt used for generating integrative diagnostic VQAs is as follows:
+  •	Prompt: S.II 5.1 Diagnose_prompt
 
 ### AI Prompts for Evaluation
 The prompts are used during the evaluation experiments. The prompt language, physician assessment language, and case information language are all Chinese.
